@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/leoleo/Documents/UofT/2022 Fall/ECE361/Lab2",
+      "program": "/Users/leoleo/Documents/UofT/2022 Fall/ECE361/Lab2/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
